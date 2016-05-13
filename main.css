@@ -22,3 +22,10 @@
 	line-height:30px;
 	text-align: center;
 }
+
+#footer {
+    background-color:#9BDFF6;
+    color:white;
+	height:85px;
+    padding:5px;	
+}
