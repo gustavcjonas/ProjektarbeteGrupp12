@@ -9,6 +9,10 @@
 <img src="logo.png" alt="Logo" align="left" height="80">
 </div>
 
+<div id="nav">
+<p> Hej </p>
+</div>
+
 <div id="login">
 
 </BODY>
