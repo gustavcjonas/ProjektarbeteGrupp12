@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <HTML>
 <HEAD>
+  <meta charset="utf-8">
   <link rel="stylesheet" href="main.css">
 </HEAD>
 <BODY>
+<div id="header">
+<img src="logo.png" alt="Logo" align="left" height="80">
+</div>
 
 <div id="login">
 
