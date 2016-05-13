@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <HTML>
 <HEAD>
-
+		<table border="1">
+	  		<tr>
+	    		<td>Start</td><td>Forum</td><td>Kalender</td><td>Om oss</td><td>Länkar</td>
+	  		</tr>
+		</table>
 </HEAD>
 <BODY>
 
