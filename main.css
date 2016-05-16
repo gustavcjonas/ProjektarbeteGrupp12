@@ -30,3 +30,34 @@
     padding:5px;
     text-align: center;
 }
+
+#mainContent{
+	width:100%;
+	background-color:#ffffff;
+	height:auto;
+	
+}
+
+#centerDiv{
+	margin: 0 auto;
+    width:625px;
+	padding:5px;
+	height:auto;
+	
+}
+
+
+
+#bigButton{
+	background-color: #9BDFF6;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	height:300px;
+    width:300px;
+	margin: 5px 5px;
+}
