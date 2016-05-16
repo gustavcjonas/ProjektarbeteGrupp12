@@ -1,7 +1,7 @@
 #login {
     line-height:30px;
     background-color:#eeeeee;
-    height:300px;
+    height:auto;
     width:auto;
     float:left;
     padding:5px; 
@@ -59,5 +59,17 @@
     font-size: 16px;
 	height:300px;
     width:300px;
+	margin: 5px 5px;
+}
+
+#smallButton{
+	background-color: #71CAEA;
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 	margin: 5px 5px;
 }
